@@ -1,9 +1,8 @@
-# BirthdayReminder
-Делаем приложение кодом или через сториборд на свое усмотрение.
-1. Создать экран регистрации где нужно ввести логин и пароль 2 поля и кнопка вход которая ведёт на второй экран. 
-2. По нажатию на “Войти” переходим на второй экран Birthday (Это не таблица) куда будут добавляться дни рождения с третьего экрана. Лэйблы “18 дней” и ”10 марта, в среду…” захардкожены. 
-3. По нажатию на кнопку + попадаем на третий экран. Дата, возраст, пол - пикеры. Instagram - алертКонтроллер.
+# BirthdayReminderApp
+
+1. Registration screen, where the user enters a login and password (2 fields) and a login button that leads to the second screen.
+2. By clicking on “Login” we go to the second Birthday screen (This is not a table), where birthdays are added from the third screen. The labels “18 days” and “March 10, Wednesday…” are hardcoded.
+3. By pressing the + button, we get to the third screen. Date, age, gender - pickers. Instagram - alertController
 4. Опционально для тех, кто не почуствовал задания и для тех кто хочет расти как крутой программист:
-* При нажатии на кнопку с глазом на первом экране должен показываться пароль из второго поля вместо точек. 
-* Сделать лейблы со второго экрана интерактивными, чтобы в лейбле показывалось сколько дней осталось до дня рождения в зависимости от сегодняшней даты. И добавить фото на аватарку из галереи телефона.
-* Добавить свою крутую фичу
+* When you click on the button with an eye on the first screen, the password from the second field is shown instead of dots.
+* Labels from the second screen are interactive and show how many days are left until the birthday, depending on today's date. And you can add a photo to the avatar from the phone gallery.
